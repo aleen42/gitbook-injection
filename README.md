@@ -1,5 +1,7 @@
 ## injection
 
+[![Join the chat at https://gitter.im/aleen42/gitbook-injection](https://badges.gitter.im/aleen42/gitbook-injection.svg)](https://gitter.im/aleen42/gitbook-injection?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Pay](https://img.shields.io/badge/%24-free-%23a10000.svg)](#) [![GitHub issues](https://img.shields.io/github/issues/aleen42/gitbook-injection.svg)](https://github.com/aleen42/gitbook-injection/issues) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/aleen42/gitbook-injection/master/LICENSE) [![Gitter](https://badges.gitter.im/aleen42/gitbook-injection.svg)](https://gitter.im/aleen42/gitbook-injection?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![npm](https://img.shields.io/npm/v/gitbook-plugin-injection.svg)](https://www.npmjs.com/package/gitbook-plugin-injection) [![Build Status](https://travis-ci.org/aleen42/gitbook-injection.svg?branch=master)](https://travis-ci.org/aleen42/gitbook-injection) [![devDependency Status](https://david-dm.org/aleen42/gitbook-injection/dev-status.svg)](https://david-dm.org/aleen42/gitbook-injection#info=devDependencies) [![npm](https://img.shields.io/npm/dt/gitbook-plugin-injection.svg)](https://www.npmjs.com/package/gitbook-plugin-injection)
